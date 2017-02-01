@@ -66,7 +66,7 @@ Thus, *Two Layers* panels are a dedicated design that can consistently get sub-m
 
 You can help this project by contributing to:
 
-* Turn it into a real OpenScad library
+* Turn it into a real OpenScad library (joehil: This is in progess now!)
 
 * Test printed modules at home
 	* Try and print them at home on your printer
@@ -115,17 +115,22 @@ Practical overview of micro perforated panels: [MICROPERFORATED PANEL ABSORBER D
 
 Paper on Setaki's work on 3D printing customized sound absorbers using destructive interference: [Sound absorption and additive manufacturing, Foteini Setaki, CONFERENCE PAPER · AUGUST 2015 ](https://www.researchgate.net/publication/281005456)
 
-Nicely illustrated report on Setaki's work on 3D printing customized sound absorbers using destructive interference: [ACOUSTICS BYADDITIVE MANUFACTURING, Foteini Setaki 2015](http://repository.tudelft.nl/assets/uuid:153e94d2-4b56-4577-b286-f0fd85199234/Report_F_Setaki.pdf)
+Nicely illustrated report on Setaki's work on 3D printing customized sound absorbers using destructive interference: [ACOUSTICS BY
+ADDITIVE MANUFACTURING, Foteini Setaki 2015](http://repository.tudelft.nl/assets/uuid:153e94d2-4b56-4577-b286-f0fd85199234/Report_F_Setaki.pdf)
 
 3D printing and acoustic absorbers: [Implications of solid freeform fabrication on acoustic absorbers. O.B. Godbold, R.C. Soar and R.A. Buswell](http://dx.doi.org/10.1108/13552540710824805)
-3D printing and acoustic absorbers: [From MPA to strategically designed absorbers using solid freeform fabrication techniques, Godbold, Oliver Kang, Jian Soar, R.C. Buswell, Richard A. 2007](https://dspace.lboro.ac.uk/2134/10142)
-Godbold's doctoral thesis on 3D printing and acoustic absorbers: [Investigating broadband acoustic absorption using rapid manufacturing, Doctoral Thesis, Oliver Godbold 2008](https://dspace.lboro.ac.uk/2134/8058)
 
-Comparing Wirt's backing when combined with micro perfored panels: [Varying Backing Cavity Depths to Achieve Broadband Absorption using Micro-Perforated PanelsCONFERENCE PAPER · AUGUST 2013 X. Hua D. W. Herrin P. Jackson 2013](https://www.researchgate.net/publication/280089574_Varying_Backing_Cavity_Depths_to_Achieve_Broadband_Absorption_using_Micro-Perforated_Panels)
+3D printing and acoustic absorbers: [From MPA to strategically designed absorbers using solid freeform fabrication techniques, Godbold, Oliver Kang, Jian Soar, R.C. Buswell, Richard A. 2007](https://dspace.lboro.ac.uk/2134/10142)
+
+Godbold's doctoral thesis on 3D printing and acoustic absorbers: [Investigating broadband acoustic absorption using rapid manufacturing, Doctoral Thesis, Oliver Godbold 2008](https://dspace.lboro.ac.uk/2134/8058)
+
+Comparing Wirt's backing when combined with micro perfored panels: [Varying Backing Cavity Depths to Achieve Broadband Absorption using Micro-Perforated Panels
+CONFERENCE PAPER · AUGUST 2013 X. Hua D. W. Herrin P. Jackson 2013](https://www.researchgate.net/publication/280089574_Varying_Backing_Cavity_Depths_to_Achieve_Broadband_Absorption_using_Micro-Perforated_Panels)
 
 [A PERFORATED PANEL SOUND ABSORBER FOR LOW FREQUENCIES Dengke Li, Daoqing Chang, Bilong Liu, Jing Tian](http://www.iiav.org/archives_icsv_last/2015_icsv22/content/papers/papers/full_paper_918_20150510165741701.pdf)
 
-Mixing Microperforated Panels with segmented backs: [Acoustic properties of micro-perforated panel absorbers backed by Helmholtz resonators for the improvement of low-frequency sound absorptionSoon-Hong Park](http://dx.doi.org/10.1016/j.jsv.2013.04.029)
+Mixing Microperforated Panels with segmented backs: [Acoustic properties of micro-perforated panel absorbers backed by Helmholtz resonators for the improvement of low-frequency sound absorption
+Soon-Hong Park](http://dx.doi.org/10.1016/j.jsv.2013.04.029)
 
 Comparing Microperforated Panels with 3 different segmented backs and with an empty cavity. Detailled dimensions and results: [Enhancing the Performance of Microperforated Panel Absorbers by Designing Custom Backings Weyun Liu, D.w  W. Herrin 2016](http://pub.dega-akustik.de/IN2016/data/articles/001103.pdf)
 
