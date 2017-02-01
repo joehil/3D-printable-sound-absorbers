@@ -10,7 +10,8 @@ tubesx=2;
 tubesy=2;
 
 
-
+// module polyhole is Copyright 2011 Nophead (of RepRap fame)
+// This file is licensed under the terms of Creative Commons Attribution 3.0 Unported.
 module polyhole(h, d) {
     n = max(round(2 * d),3);
     rotate([0,0,180])
