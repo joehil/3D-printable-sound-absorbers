@@ -1,14 +1,14 @@
 // Copyright 2017 joehil
 // This file is licensed under the terms of Creative Commons Attribution 3.0 Unported.
 
-tubed1=20;
-tubed2=11;
+tubed1=25;
 otubed=25;
-wallh=65;
-tubeh=58;
+wallh=50;
 tubesx=2;
 tubesy=2;
 
+tubed2=tubed1/sqrt(3);
+tubeh=wallh*0.95;
 
 // module polyhole is Copyright 2011 Nophead (of RepRap fame)
 // This file is licensed under the terms of Creative Commons Attribution 3.0 Unported.
